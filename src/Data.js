@@ -13,7 +13,7 @@ const Works = [
     { type:"react all",          img : "/img/Special.png"    ,video : "/video/Developer.mp4"  , title : "Design Special" , visit: "https://shtya.github.io/Special_Design/" , github :"https://github.com/Shtya/Special_Design" },
     { type:"react all next",     img : "/img/Twitter.png"    ,video : "/video/twitter.mp4"    , title : "Twitter" , github: "https://github.com/Shtya/Clone-Twitter" , visit :"https://shtya.github.io/Clone-Twitter/" },
     { type:"react all",          img : "/img/Kasper.png"     ,video : "/video/Speaky.mp4"     , title : "Kasper" , visit: "https://shtya.github.io/Kasper/" , github :"https://github.com/Shtya/Kasper" },
-    { type:"react all",          img : "/img/Personal.png"   ,video : "/video/Personal.mp4"   , title : "Personal" , visit: "https://shtya.github.io/Web-Personal/" , github :"https://github.com/Shtya/Web-Personal" },
+    // { type:"react all",          img : "/img/Personal.png"   ,video : "/video/Personal.mp4"   , title : "Personal" , visit: "https://shtya.github.io/Web-Personal/" , github :"https://github.com/Shtya/Web-Personal" },
     { type:"react all",          img : "/img/Dashboard.png"  ,video : "/video/Dashboard.mp4"  , title : "Dashboard" , visit: "https://shtya.github.io/Dashboard/" , github :"https://github.com/Shtya/Dashboard" },
     { type:"react all",          img : "/img/Leon.png"       ,video : "/video/Lion.mp4"       , title : "Leon" , visit: "https://shtya.github.io/Project-Leon/" , github :"https://github.com/Shtya/Project-Leon" },
   ]
